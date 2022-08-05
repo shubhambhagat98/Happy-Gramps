@@ -65,8 +65,20 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/53030762/182974768-f7592980-bb00-469d-bf57-3755d86fe196.png" height="450" />
-  
+</div>
+
+**4) Medicine Reminder**
+
+- This Section is used to store information about daily medicines.  
+- User can add medicine information such as medicine name, dosage, type, interval and start time.  
+- A reminder notification is displayed along with vibration pattern and notification tune to alert/reminder the user to take the medicine.
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/53030762/182975266-be56fbb2-5ff2-47ce-ac96-8207d740d90b.png" height="450" />
 </div>
 
 
+**5) Todo Reminder**
+
+- 
 
