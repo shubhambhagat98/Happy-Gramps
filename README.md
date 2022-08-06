@@ -1,12 +1,7 @@
 
 ## Happy Grampp - A Senior Citizens Safety Appilaction
 
-
-
-
-
 <img src="https://user-images.githubusercontent.com/53030762/182968720-97b146ff-2943-4f64-b133-19d3d11f4fa3.png" align="right" height="280" />
-
   
 - In this project, we have tried to leverage smartphone technology to develop a no-cost solution for providing a safety mechanism to senior citizens.
 
@@ -16,9 +11,6 @@
   
 - Working video demo of this application can be viewed using this link.
 
-
-
-<hr />
 
 ## Tech Stack
 - Programming Language: Dart, Kotlin
@@ -41,7 +33,7 @@
 </div>
 
 
-<hr />
+<br />
 
 **2) Fall Detection**
 
@@ -56,6 +48,7 @@
   <img src="https://user-images.githubusercontent.com/53030762/182971972-9b7be0f7-a612-41db-acb4-c829b37a1aa3.png" align="center" height="450" />
 </div>
 
+<br />
 
 **3) SOS/Panic Button**
 
@@ -67,6 +60,8 @@
   <img src="https://user-images.githubusercontent.com/53030762/182974768-f7592980-bb00-469d-bf57-3755d86fe196.png" height="450" />
 </div>
 
+<br />
+
 **4) Medicine Reminder**
 
 - This Section is used to store information about daily medicines.  
@@ -77,8 +72,49 @@
   <img src="https://user-images.githubusercontent.com/53030762/182975266-be56fbb2-5ff2-47ce-ac96-8207d740d90b.png" height="450" />
 </div>
 
+<br />
 
 **5) Todo Reminder**
 
-- 
+- This Section is used to store information about certain task to be done.  
+- User can add task information such as task name, task date and time.
+- A reminder notification is displayed along with vibration pattern and notification tune to alert/remind the user about the task.
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/53030762/183233813-6bc0ed0e-1c2c-45cb-98e5-be047ea047be.png" height="450" />
+</div>
+
+<br />
+
+**6) Emergency Contact List**
+
+- Here, user must save certain contacts to be contacted in case of emergency.
+- User can enter information such as contact name, number, email-id, category.
+- Contacts which have category as Family or SOS are alerted in case of any emergency.
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/53030762/183233999-ac88f644-bbc5-44c5-9499-a34ec922d70e.png" height="450" />
+</div>
+
+<br />
+
+
+**7) Information Notebook**
+
+- Here, user can store some information which may difficult to remember but can be needed at crucial time.
+- Each piece of information is stored as a note with different priority - High, Medium, Low.
+- Different colors are used to differentiate the priority of the notes as- Red, yellow, green.
+
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/53030762/183234119-039b2325-8589-4be0-a93d-8314b3d201c8.png" align="center" height="450" />
+  <img src="https://user-images.githubusercontent.com/53030762/183234123-ab703075-2411-4b0e-a766-06afa6025180.png" align="center" height="450" />
+</div>
+
+## How to run the project
+
+- Clone this repo
+- Follow [Get Started](https://flutter.dev/docs/get-started/install) tutorial and install Flutter
+- Start Android emulator
+- Run the app from terminal with `flutter run`
 
