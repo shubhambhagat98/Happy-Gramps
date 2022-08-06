@@ -2,11 +2,12 @@
 ## Happy Grampp - A Senior Citizens Safety Appilaction
 
 
+
+
+<!-- 
 <img src="https://user-images.githubusercontent.com/53030762/182968720-97b146ff-2943-4f64-b133-19d3d11f4fa3.png" align="right" height="280" />
+Accidents can happen anytime and as older we get, the harder it becomes to bounce back from them. In such situations, having a safety mechanism not only gives senior citizens a sense of security, but also retains their freedom to perform outdoor activities.   -->
 
- 
-
-- Accidents can happen anytime and as older we get, the harder it becomes to bounce back from them. In such situations, having a safety mechanism not only gives senior citizens a sense of security, but also retains their freedom to perform outdoor activities.  
   
 - In this project, we have tried to leverage smartphone technology to develop a no-cost solution for providing a safety mechanism to senior citizens.
 
