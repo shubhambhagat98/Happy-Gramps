@@ -1,5 +1,5 @@
 
-## Happy Grampp - A Senior Citizens Safety Appilaction
+## Happy Grampp - A Senior Citizens Safety Appilcation
 
 <img src="https://user-images.githubusercontent.com/53030762/182968720-97b146ff-2943-4f64-b133-19d3d11f4fa3.png" align="right" height="280" />
   
