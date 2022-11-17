@@ -19,6 +19,11 @@
 - Database: SQLite
 - UI Design: Figma
 
+## Demo
+
+https://user-images.githubusercontent.com/53030762/202572670-c1f26364-7a2a-4727-aa9e-87c7549ad7ab.mp4
+
+
 ## Component Overview
 
 **1) Home page**
